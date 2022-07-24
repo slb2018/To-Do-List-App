@@ -47,3 +47,7 @@ code {
   height: 2.25em;
   font-size: 24px;
 }
+
+h1 {
+  text-align: center;
+}
